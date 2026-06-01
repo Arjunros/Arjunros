@@ -92,11 +92,11 @@ Developing a quadruped robot using custom cycloidal actuators and reinforcement 
 
 ## 📈 GitHub Stats
 
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight)
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Arjunros&theme=tokyonight&hide_border=true)
 
 ---
 
