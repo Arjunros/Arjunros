@@ -1,88 +1,151 @@
-```md id="github-profile-readme"
-<h1 align="center">Hi 👋, I'm Arjun R</h1>
+<div align="center">
 
-<h3 align="center">
-Robotics Engineer • AI Enthusiast • Founder of Nexomation
-</h3>
+<h1>Hi 👋, I'm Arjun R</h1>
 
-<p align="center">
-Building intelligent robots using AI, ROS2, Computer Vision, and Embedded Systems.
-</p>
+<h3>Robotics Engineer · AI Researcher · Founder of Nexomation</h3>
 
----
+<p>Building intelligent autonomous systems using AI, ROS2, Computer Vision, and Embedded Systems.</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Robotics+Engineer;AI+%7C+ROS2+%7C+Computer+Vision;Building+Intelligent+Autonomous+Systems;Founder+of+Nexomation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Robotics+Engineer;ROS2+%7C+AI+%7C+Reinforcement+Learning;Building+Intelligent+Autonomous+Systems;Founder+of+Nexomation" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR4Y2s2c2Q4bTF0aWQ5a2U2aDZ0N3E1YWFsZXQ1dDg2N2Vmd3FqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arjunros&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="680"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Arjunros&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-- 🎓 Robotics & Automation Engineering Student  
-- 🤖 Founder of Nexomation  
-- 🧠 Exploring AI, Robotics, Reinforcement Learning & Autonomous Systems  
-- ⚡ Building real-world robotic products and autonomous platforms  
-- 🌍 Passionate about futuristic robotics and human-centered AI  
+- 🎓 Robotics & Automation Engineering Student
+- 🤖 Founder of **Nexomation** — building real-world robotic products and autonomous platforms
+- 🧪 Exploring AI, Reinforcement Learning, Humanoid Robotics & Vision-Language-Action Models
+- ⚡ Passionate about bridging research and deployment in robotics
+- 🌍 Goal: Intelligent systems that understand, adapt, and assist humanity
+
+```python
+class ArjunR:
+    def __init__(self):
+        self.role    = "Robotics Engineer"
+        self.company = "Nexomation"
+        self.focus   = [
+            "Quadruped Locomotion",
+            "Humanoid Robotics",
+            "Vision-Language-Action Models",
+            "Robotics Foundation Models",
+            "Fleet Management Systems",
+        ]
+```
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🚚 **Milo X1** | Autonomous outdoor delivery robot | ROS2 · LiDAR · Jetson Nano |
+| 🏠 **Nexa Gen2 (MAID)** | Indoor smart-environment delivery robot | ROS2 · Nav2 · AI Navigation |
+| 🌊 **Aqua Bot** | AI-powered water surface cleaning & environmental monitoring | Computer Vision · Embedded |
+| 🐕 **Quadruped Robot** | Legged robot with cycloidal actuators & RL locomotion | MuJoCo · Gymnasium · RL |
+| 🚗 **Prakveu** | AI-powered automatic parking system | OpenCV · IoT |
+| ☁️ **Fleet Manager** | Cloud monitoring & comms platform for robot fleets | Cloud · ROS2 Bridge |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,ros,opencv,tensorflow,pytorch,arduino,linux,git,github,vscode,raspberrypi"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,linux,git,github,vscode"/>
 </p>
 
-<p align="center">
+**Robotics & Simulation**
 
-<img src="https://img.shields.io/badge/OpenAI_Gym-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat-square)
+![Nav2](https://img.shields.io/badge/Nav2-22314E?style=flat-square)
+![SLAM](https://img.shields.io/badge/SLAM-0D1117?style=flat-square)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=flat-square&logo=robotframework&logoColor=white)
 
-<img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+**AI / Machine Learning**
 
-<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-412991?style=flat-square&logo=openai&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-7F77DD?style=flat-square)
+![VLMs](https://img.shields.io/badge/Vision--Language_Models-1D9E75?style=flat-square)
 
-</p>
+**Embedded & Hardware**
 
----
+![Jetson Orin](https://img.shields.io/badge/Jetson_Orin_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-003AFF?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
-## 📌 Featured Projects
+**CAD & Design**
 
-### 🤖 Milo X1
-Autonomous delivery robot powered by ROS2, LiDAR, Jetson Nano, and AI-based navigation.
-
-### 🏠 MAID
-Indoor autonomous robotic platform with smart fleet management capabilities.
-
-### 🚗 Prakveu
-AI-powered automatic parking system using OpenCV and IoT.
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=flat-square&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB_Design-1D9E75?style=flat-square)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=5DCAA5&icon_color=7F77DD"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5DCAA5"/>
 
-</p>
+<img src="https://streak-stats.demolab.com/?user=Arjunros&theme=tokyonight&hide_border=true&background=0D1117&ring=5DCAA5&fire=7F77DD&currStreakLabel=5DCAA5"/>
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunros&theme=tokyonight&hide_border=true"/>
+---
 
-</p>
+## 📈 Proficiency
+
+```text
+ROS2                    ████████████████████  100%
+Computer Vision         ███████████████████░   95%
+Embedded Systems        ██████████████████░░   90%
+Machine Learning        █████████████████░░░   85%
+Reinforcement Learning  ████████████████░░░░   80%
+Humanoid Robotics       ██████████████░░░░░░   70%
+```
+
+---
+
+## 🔬 Research Interests
+
+- Reinforcement Learning for Robotics
+- Quadruped Locomotion & Legged Locomotion
+- Humanoid Robotics
+- Vision-Language-Action (VLA) Models
+- Robotics Foundation Models
+- AI for Autonomous Navigation
+- Human-Robot Interaction
+
+---
+
+## 🏆 Highlights
+
+- 🥈 **National-Level Runner-Up** — Prakveu
+- 🏅 **Best Team Award** — Innovatethon
+- 📄 **Research Paper** presented on Autonomous Delivery Robots
+- ⚡ **Robotics Internship** at IIT Madras
+- 🌍 **Nexomation** nominated for Founders 2.0 Entrepreneurial Excellence Award
+- 🎬 **First Prize** — Tamil Nadu Forest Department Short Film
 
 ---
 
@@ -91,36 +154,36 @@ AI-powered automatic parking system using OpenCV and IoT.
 <p align="center">
 
 <a href="https://github.com/Arjunros" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/arjun-r-116787246/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:itsrarjun@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@ARAcademyTamil" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@itsrarjun" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="40" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 🧠 Current Focus
+<div align="center">
 
-- ROS2 Autonomous Navigation  
-- Reinforcement Learning with MuJoCo  
-- AI-powered Robotics  
-- Fleet Management Systems  
-- Embedded AI on Jetson Platforms  
+*"Building robots is not just about automation — it is about creating intelligent systems*
+*that can understand, adapt, and assist humanity in solving real-world challenges."*
 
----
+<br/>
 
-<p align="center">
-  <i>"Transforming Tomorrow."</i>
-</p>
-```
+**⭐ Transforming Tomorrow Through Robotics & AI ⭐**
+
+</div>
