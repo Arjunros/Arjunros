@@ -1,3 +1,4 @@
+```md
 <h1 align="center">Hi 👋, I'm Arjun R</h1>
 <h3 align="center">Robotics Engineer • AI Enthusiast • Founder of Nexomation</h3>
 
@@ -10,7 +11,7 @@ Building intelligent robots using AI, ROS2, Computer Vision, and Embedded System
 ## 🚀 About Me
 
 - 🎓 Robotics & Automation Engineering Student  
-- 🤖 Founder of <a href="https://nexomation.com">Nexomation</a>  
+- 🤖 Founder of Nexomation  
 - 🧠 Exploring AI, Robotics, Reinforcement Learning & Autonomous Systems  
 - ⚡ Building real-world robotic products and autonomous platforms  
 - 🌍 Passionate about futuristic robotics and human-centered AI  
@@ -21,12 +22,14 @@ Building intelligent robots using AI, ROS2, Computer Vision, and Embedded System
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
 ### 🤖 Robotics & AI
 <p>
-  <img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow,pytorch,arduino" />
+  <img src="https://img.shields.io/badge/OpenAI_Gym-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
 
 ### ⚙️ Tools & Platforms
@@ -52,8 +55,9 @@ AI-powered automatic parking system using OpenCV and IoT.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -69,6 +73,10 @@ AI-powered automatic parking system using OpenCV and IoT.
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
+<a href="mailto:itsrarjun@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
 <a href="https://medium.com/@itsrarjun" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="40" />
 </a>
@@ -77,5 +85,12 @@ AI-powered automatic parking system using OpenCV and IoT.
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arjunros&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
   <i>"Transforming Tomorrow."</i>
 </p>
+```
