@@ -1,4 +1,4 @@
-```md id="u4x2ma"
+```md id="github-profile-readme"
 <h1 align="center">Hi 👋, I'm Arjun R</h1>
 
 <h3 align="center">
@@ -7,6 +7,16 @@ Robotics Engineer • AI Enthusiast • Founder of Nexomation
 
 <p align="center">
 Building intelligent robots using AI, ROS2, Computer Vision, and Embedded Systems.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Robotics+Engineer;AI+%7C+ROS2+%7C+Computer+Vision;Building+Intelligent+Autonomous+Systems;Founder+of+Nexomation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTR4Y2s2c2Q4bTF0aWQ5a2U2aDZ0N3E1YWFsZXQ1dDg2N2Vmd3FqYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="700"/>
 </p>
 
 <p align="center">
@@ -27,27 +37,20 @@ Building intelligent robots using AI, ROS2, Computer Vision, and Embedded System
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,ros,opencv,tensorflow,pytorch,arduino,linux,git,github,vscode,raspberrypi"/>
+
 </p>
 
-### 🤖 Robotics & AI
-<p>
-  <img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow,pytorch,arduino" />
-</p>
+<p align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_Gym-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_Gym-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/MuJoCo-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,git,github,vscode" />
 </p>
 
 ---
@@ -69,23 +72,15 @@ AI-powered automatic parking system using OpenCV and IoT.
 
 <p align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=arjunros&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    height="170"
-  />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunros&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-  <img 
-    src="https://streak-stats.demolab.com?user=arjunros&theme=tokyonight&hide_border=true"
-  />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunros&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -112,6 +107,16 @@ AI-powered automatic parking system using OpenCV and IoT.
 </a>
 
 </p>
+
+---
+
+## 🧠 Current Focus
+
+- ROS2 Autonomous Navigation  
+- Reinforcement Learning with MuJoCo  
+- AI-powered Robotics  
+- Fleet Management Systems  
+- Embedded AI on Jetson Platforms  
 
 ---
 
