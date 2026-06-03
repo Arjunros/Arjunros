@@ -1,45 +1,81 @@
-# Arjun R
+<h1 align="center">Hi 👋, I'm Arjun R</h1>
+<h3 align="center">Robotics Engineer • AI Enthusiast • Founder of Nexomation</h3>
 
-Robotics & Automation Engineering student. Founder of Nexomation.
-
-Building autonomous robots — from quadrupeds and humanoids to delivery platforms and fleet systems.
-
----
-
-**Focus areas**  
-Reinforcement Learning · Humanoid Robotics · Autonomous Navigation · Vision-Language Models · Robotics Foundation Models
-
-**Stack**  
-ROS2 · MuJoCo · Gymnasium · OpenCV · Python · C++ · Jetson · Raspberry Pi · ESP32 · Fusion 360
+<p align="center">
+Building intelligent robots using AI, ROS2, Computer Vision, and Embedded Systems.
+</p>
 
 ---
 
-**Projects**
+## 🚀 About Me
 
-- **Milo X1** — Autonomous outdoor delivery robot (ROS2, LiDAR, Jetson Nano)
-- **Nexa Gen2** — Indoor delivery robot for smart environments
-- **Quadruped Robot** — Custom cycloidal actuators + RL locomotion in MuJoCo
-- **Water Surface Cleaner** — AI-powered aquatic waste collection robot
-- **Fleet Management Platform** — Cloud-based monitoring for autonomous robot fleets
-
----
-
-**Highlights**
-
-- Robotics Internship — IIT Madras
-- Research paper on Autonomous Delivery Robots
-- National Runner-Up — Prakveu
-- Nexomation nominated for Founders 2.0 Entrepreneurial Excellence Award
+- 🎓 Robotics & Automation Engineering Student  
+- 🤖 Founder of <a href="https://nexomation.com">Nexomation</a>  
+- 🧠 Exploring AI, Robotics, Reinforcement Learning & Autonomous Systems  
+- ⚡ Building real-world robotic products and autonomous platforms  
+- 🌍 Passionate about futuristic robotics and human-centered AI  
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" />
+</p>
 
-</div>
+### 🤖 Robotics & AI
+<p>
+  <img src="https://skillicons.dev/icons?i=ros,opencv,tensorflow,pytorch" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,git,github,vscode" />
+</p>
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/arjun-r-116787246/) · [YouTube](https://www.youtube.com/@ARAcademyTamil) · [Email](mailto:itsrarjun@gmail.com)
+## 📌 Featured Projects
+
+### 🤖 Milo X1
+Autonomous delivery robot powered by ROS2, LiDAR, Jetson Nano, and AI-based navigation.
+
+### 🏠 MAID
+Indoor autonomous robotic platform with smart fleet management capabilities.
+
+### 🚗 Prakveu
+AI-powered automatic parking system using OpenCV and IoT.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/Arjunros" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/in/arjun-r-116787246/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="https://medium.com/@itsrarjun" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" height="40" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Transforming Tomorrow."</i>
+</p>
