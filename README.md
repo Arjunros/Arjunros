@@ -113,18 +113,6 @@ class ArjunR:
 
 ---
 
-## 📈 Proficiency
-
-```text
-ROS2                    ████████████████████  100%
-Computer Vision         ███████████████████░   95%
-Embedded Systems        ██████████████████░░   90%
-Machine Learning        █████████████████░░░   85%
-Reinforcement Learning  ████████████████░░░░   80%
-Humanoid Robotics       ██████████████░░░░░░   70%
-```
-
----
 
 ## 🔬 Research Interests
 
