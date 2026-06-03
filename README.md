@@ -10,9 +10,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="680"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Arjunros&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -27,20 +25,6 @@
 - 🧪 Exploring AI, Reinforcement Learning, Humanoid Robotics & Vision-Language-Action Models
 - ⚡ Passionate about bridging research and deployment in robotics
 - 🌍 Goal: Intelligent systems that understand, adapt, and assist humanity
-
-```python
-class ArjunR:
-    def __init__(self):
-        self.role    = "Robotics Engineer"
-        self.company = "Nexomation"
-        self.focus   = [
-            "Quadruped Locomotion",
-            "Humanoid Robotics",
-            "Vision-Language-Action Models",
-            "Robotics Foundation Models",
-            "Fleet Management Systems",
-        ]
-```
 
 ---
 
