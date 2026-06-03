@@ -51,14 +51,30 @@ AI-powered automatic parking system using OpenCV and IoT.
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Arjunros&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunros&layout=compact&theme=tokyonight&hide_border=true" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunros&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
+
+
 
 ## 🌐 Connect With Me
 
