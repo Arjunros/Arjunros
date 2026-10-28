@@ -2,7 +2,7 @@
 
 <h1>Hi 👋, I'm Arjun R</h1>
 
-<h3>Robotics Engineer · AI Researcher · Founder of Nexomation</h3>
+<h3>Robotics Engineer · AI Researcher</h3>
 
 <p>Building intelligent autonomous systems using AI, ROS2, Computer Vision, and Embedded Systems.</p>
 
@@ -20,8 +20,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Robotics & Automation Engineering Student
-- 🤖 Founder of **Nexomation** — building real-world robotic products and autonomous platforms
+- 🎓 Robotics Engineer
 - 🧪 Exploring AI, Reinforcement Learning, Humanoid Robotics & Vision-Language-Action Models
 - ⚡ Passionate about bridging research and deployment in robotics
 - 🌍 Goal: Intelligent systems that understand, adapt, and assist humanity
